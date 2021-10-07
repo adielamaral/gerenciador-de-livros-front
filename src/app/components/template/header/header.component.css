@@ -1,0 +1,21 @@
+img {
+    height: 3rem;
+}
+
+.header {
+    justify-content: center;
+    height: 10%;
+    background-color:rgba(0, 0, 0, 0.904);
+}
+
+span {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color:ghostwhite;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
