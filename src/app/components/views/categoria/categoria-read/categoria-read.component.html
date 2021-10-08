@@ -3,10 +3,10 @@
         <h1>Categoria</h1>
     </div>
 
-    <button class="mat-elevation-z8" mat-stroked-button color="primary">Nova Categoria</button>
+    <button class="mat-elevation-z8" (click)="navegarParaCategoriaCreate()" mat-stroked-button color="primary">NOVA CATEGORIA</button>
 
     <div class="mat-elevation-z8 content-table">
-      <table class="table" mat-table [dataSource] = "categorias">
+      <table class="table" mat-table [dataSource]="categorias">
     
         <!-- ID Column -->
         <ng-container matColumnDef="id">
