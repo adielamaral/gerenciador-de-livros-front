@@ -12,6 +12,7 @@
     font-size: 2rem;
     color:rgb(0, 0, 0);
     font-weight: 500;
+    text-shadow:  rgb(124, 124, 124) 0.1em 0.1em 0.2em;
 }
 
 button {
@@ -39,4 +40,12 @@ button {
 
 .mat-header {
     width: 6rem;
+}
+
+.i1 {
+    padding-left: .7rem;
+}
+
+.i2 {
+    padding-left: 1.2rem;
 }

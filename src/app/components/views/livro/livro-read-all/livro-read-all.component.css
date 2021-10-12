@@ -6,6 +6,7 @@
 .title {
     text-align: center;
     margin-bottom: 3rem;
+    text-shadow:  rgb(124, 124, 124) 0.1em 0.1em 0.2em;
 }
 
 .title h1 {
@@ -15,7 +16,6 @@
 }
 
 button {
-    background-color: rgb(255, 255, 255);
     margin-bottom: .8rem;
 }
 
@@ -39,4 +39,12 @@ button {
 
 .mat-header {
     width: 6rem;
+}
+
+.i1 {
+    padding-left: .7rem;
+}
+
+.i2 {
+    padding-left: 1.2rem;
 }

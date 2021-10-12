@@ -3,6 +3,10 @@
     margin: 1rem auto;
 }
 
+.subtitle {
+    padding: 1rem;
+}
+
 @media(max-width: 450px) {
     .home {
         width: 70%;

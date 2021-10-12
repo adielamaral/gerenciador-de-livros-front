@@ -46,7 +46,7 @@ import { LivroReadComponent } from './components/views/livro/livro-read/livro-re
     LivroCreateComponent,
     LivroUpdateComponent,
     LivroDeleteComponent,
-    LivroReadComponent
+    LivroReadComponent,
   ],
   imports: [
     BrowserModule,
